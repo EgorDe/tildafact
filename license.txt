@@ -1,0 +1,11 @@
+Model Information:
+* title:	GALERIA FINAL
+* source:	https://sketchfab.com/3d-models/galeria-final-a3374f0ad9b7445e893e66f6d4fb9264
+* author:	Patricia.Orellana.Solares (https://sketchfab.com/Patricia.Orellana.Solares)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "GALERIA FINAL" (https://sketchfab.com/3d-models/galeria-final-a3374f0ad9b7445e893e66f6d4fb9264) by Patricia.Orellana.Solares (https://sketchfab.com/Patricia.Orellana.Solares) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
